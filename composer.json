@@ -1,0 +1,21 @@
+{
+  "name": "anton_masleennikov/engine",
+  "description": "Микро MVC-фреймворк",
+  "authors": [
+    {
+      "name": "Anton Maslennikov",
+      "email": "anton.maslennikov@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.1"
+  },
+  "require-dev": {
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "tomdom\\core\\": "src/"
+    }
+  }
+}
