@@ -12,6 +12,7 @@
   },
   "require-dev": {
   },
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "tomdom\\core\\": "src/"
